@@ -1,6 +1,6 @@
 # Disk File Organization & Search Analysis
 
-A low-level data management system developed in Java to simulate and analyze different disk storage organizations and search algorithms. This project was developed as part of the **Data Structures and Algorithms** course at the **Technical University of Crete** (Spring 2022).
+A low-level data management system developed in Java to simulate and analyze different disk storage organizations and search algorithms. This project was developed as part of the **Data Structures and Algorithms** course at the **Technical University of Crete** (Spring 2023).
 
 ## 📌 Project Overview
 The primary objective of this application is to manage data records stored on a disk using **Page-Based I/O**. Unlike standard in-memory applications, this system reads and writes data in fixed-size blocks (Disk Pages), simulating the behavior of database management systems (DBMS).
